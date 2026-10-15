@@ -2,7 +2,7 @@
 
 Public support for Transition Radar, a research workflow with an authenticated personal watchlist and retained research history.
 
-Public listing name requested by the publisher: **DJ Nawal**. Original package attribution: **D.Jatoliya**. These names do not establish a verified legal identity.
+Public listing name requested by the publisher: **DJ Nawal**. Original package attribution: **D.Jatoliya**. These names do not establish a verified legal identity.General non-sensitive contact: mail-jatolia45@gmail.com. Do not send passwords, tokens, account identifiers, private research, or other sensitive information by email.
 
 Use this repository's Issues tab for non-sensitive questions and reproducible problems. Include what you tried, the approximate time, the visible error and your host/plugin version. Use fictional sample research when describing a problem.
 
